@@ -12,7 +12,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 
 # Título do Projeto: 10 Passos para Usar IAs Generativas no Dia a Dia
 
-![Imagem do E-book](/forknaatty)
+![Imagem do E-book](/forknaatty.JPG)
 
 ## 📒 Descrição
 Este projeto apresenta um e-book com 10 passos práticos para integrar IAs generativas no cotidiano. Ele foi criado para inspirar e orientar pessoas a utilizarem tecnologias como ChatGPT, DALL-E e outras ferramentas para aumentar a produtividade, criatividade e automação em suas rotinas pessoais e profissionais.
